@@ -1,0 +1,1 @@
+This repo contains the error data and device layout for IBM devices used for the demonstrations in "Quantum simulation of a qubit with non-Hermitian Hamiltonian". Note that the qubit's used for the demonstrations were q[0], q[1], and q[3].
